@@ -3,7 +3,7 @@ draft: false
 title: "Gold & Gale Official Amazon Store Is Now Live"
 snippet: "Starting in October 2026, Golden Winds Store LLC officially launched its first store on Amazon with Gold & Gale."
 image: {
-    src: "/Gold-Gale-logo.svg",
+    src: "/Gold-Gale-blog-logo.svg",
     alt: "Gold & Gale logo"
 }
 publishDate: "2026-10-01 10:00"
